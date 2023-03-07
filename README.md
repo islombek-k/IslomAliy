@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IslomAliy
-- 👀 I’m interested in Front-End development.
-- 🌱 I’m currently learning ReactJS.
-- 📫 Reach me via Telegram: @ash_shaybaniy
+- 👀 I’m a React developer.
+- 📫 Reach me via Telegram: @i8_11
 
 <!---
 IslomAliy/IslomAliy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
