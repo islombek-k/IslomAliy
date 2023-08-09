@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IslomAliy
+- 👋 Hi, I’m Islombek
 - 👀 I’m a React developer.
 - 📫 Reach me via Telegram: @i8_11
 
